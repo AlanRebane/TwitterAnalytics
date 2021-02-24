@@ -1,3 +1,11 @@
+#My own additions:
+config.py
+Twitter_API_tutorial.ipynb
+__pycache__
+.ipynb_checkpoints
+.DS_Store
+Datasets
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
